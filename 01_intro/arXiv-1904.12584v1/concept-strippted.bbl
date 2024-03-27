@@ -1,0 +1,338 @@
+\begin{thebibliography}{52}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abend et~al.(2017)Abend, Kwiatkowski, Smith, Goldwater, and
+  Steedman]{abend2017bootstrapping}
+Omri Abend, Tom Kwiatkowski, Nathaniel~J Smith, Sharon Goldwater, and Mark
+  Steedman.
+\newblock Bootstrapping language acquisition.
+\newblock \emph{Cognition}, 2017.
+
+\bibitem[Anderson et~al.(2018)Anderson, He, Buehler, Teney, Johnson, Gould, and
+  Zhang]{Anderson2017BottomUp}
+Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen
+  Gould, and Lei Zhang.
+\newblock Bottom-up and top-down attention for image captioning and visual
+  question answering.
+\newblock In \emph{CVPR}, 2018.
+
+\bibitem[Andreas et~al.(2016)Andreas, Rohrbach, Darrell, and
+  Klein]{Andreas2016Learning}
+Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Dan Klein.
+\newblock Learning to compose neural networks for question answering.
+\newblock In \emph{NAACL-HLT}, 2016.
+
+\bibitem[Antol et~al.(2015)Antol, Agrawal, Lu, Mitchell, Batra,
+  Lawrence~Zitnick, and Parikh]{Antol2015Vqa}
+Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra,
+  C~Lawrence~Zitnick, and Devi Parikh.
+\newblock {VQA}: Visual question answering.
+\newblock In \emph{ICCV}, 2015.
+
+\bibitem[Artzi \& Zettlemoyer(2013)Artzi and Zettlemoyer]{Artzi2013Weakly}
+Yoav Artzi and Luke Zettlemoyer.
+\newblock Weakly supervised learning of semantic parsers for mapping
+  instructions to actions.
+\newblock \emph{TACL}, 2013.
+
+\bibitem[Baradel et~al.(2018)Baradel, Neverova, Wolf, Mille, and
+  Mori]{Baradel2018Object}
+Fabien Baradel, Natalia Neverova, Christian Wolf, Julien Mille, and Greg Mori.
+\newblock Object level visual reasoning in videos.
+\newblock In \emph{ECCV}, 2018.
+
+\bibitem[Chen et~al.(2015)Chen, Wang, Chen, Gao, Xu, and Nevatia]{chen2015abc}
+Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, and Ram Nevatia.
+\newblock Abc-cnn: An attention based convolutional neural network for visual
+  question answering.
+\newblock \emph{arXiv:1511.05960}, 2015.
+
+\bibitem[Cho et~al.(2014)Cho, Van~Merri{\"e}nboer, Gulcehre, Bahdanau,
+  Bougares, Schwenk, and Bengio]{Cho2014Learning}
+Kyunghyun Cho, Bart Van~Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau,
+  Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translation.
+\newblock In \emph{EMNLP}, 2014.
+
+\bibitem[Chrupa{\l}a et~al.(2015)Chrupa{\l}a, K{\'a}d{\'a}r, and
+  Alishahi]{chrupala2015learning}
+Grzegorz Chrupa{\l}a, Akos K{\'a}d{\'a}r, and Afra Alishahi.
+\newblock Learning language through pictures.
+\newblock In \emph{ACL}, 2015.
+
+\bibitem[Deng et~al.(2009)Deng, Dong, Socher, Li, Li, and
+  Fei-Fei]{Deng2009Imagenet}
+Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In \emph{CVPR}, 2009.
+
+\bibitem[Donahue et~al.(2015)Donahue, Anne~Hendricks, Guadarrama, Rohrbach,
+  Venugopalan, Saenko, and Darrell]{Donahue2015Long}
+Jeffrey Donahue, Lisa Anne~Hendricks, Sergio Guadarrama, Marcus Rohrbach,
+  Subhashini Venugopalan, Kate Saenko, and Trevor Darrell.
+\newblock Long-term recurrent convolutional networks for visual recognition and
+  description.
+\newblock In \emph{CVPR}, 2015.
+
+\bibitem[Dong \& Lapata(2016)Dong and Lapata]{Dong2016Language}
+Li~Dong and Mirella Lapata.
+\newblock Language to logical form with neural attention.
+\newblock In \emph{ACL}, 2016.
+
+\bibitem[Fazly et~al.(2010)Fazly, Alishahi, and
+  Stevenson]{fazly2010probabilistic}
+Afsaneh Fazly, Afra Alishahi, and Suzanne Stevenson.
+\newblock A probabilistic computational model of cross-situational word
+  learning.
+\newblock \emph{Cognit. Sci.}, 2010.
+
+\bibitem[Gan et~al.(2017)Gan, Li, Li, Sun, and Gong]{Gan2017Vqs}
+Chuang Gan, Yandong Li, Haoxiang Li, Chen Sun, and Boqing Gong.
+\newblock {VQS}: Linking segmentations to questions and answers for supervised
+  attention in vqa and question-focused semantic segmentation.
+\newblock In \emph{ICCV}, 2017.
+
+\bibitem[Ganju et~al.(2017)Ganju, Russakovsky, and Gupta]{ganju2017what}
+Siddha Ganju, Olga Russakovsky, and Abhinav Gupta.
+\newblock What's in a question: Using visual questions as a form of
+  supervision.
+\newblock In \emph{CVPR}, 2017.
+
+\bibitem[Gauthier et~al.(2018)Gauthier, Levy, and Tenenbaum]{gauthier2018word}
+Jon Gauthier, Roger Levy, and Joshua~B Tenenbaum.
+\newblock Word learning and the acquisition of syntactic--semantic
+  overhypotheses.
+\newblock In \emph{CogSci}, 2018.
+
+\bibitem[Gehring et~al.(2017)Gehring, Auli, Grangier, Yarats, and
+  Dauphin]{Gehring2017Convolutional}
+Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann~N Dauphin.
+\newblock Convolutional sequence to sequence learning.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[He et~al.(2015)He, Zhang, Ren, and Sun]{He2015Deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{CVPR}, 2015.
+
+\bibitem[He et~al.(2017)He, Gkioxari, Doll{\'a}r, and Girshick]{He2017Mask}
+Kaiming He, Georgia Gkioxari, Piotr Doll{\'a}r, and Ross Girshick.
+\newblock Mask {R-CNN}.
+\newblock In \emph{ICCV}, 2017.
+
+\bibitem[Higgins et~al.(2018)Higgins, Sonnerat, Matthey, Pal, Burgess,
+  Botvinick, Hassabis, and Lerchner]{Higgins2018SCAN}
+Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher~P Burgess,
+  Matthew Botvinick, Demis Hassabis, and Alexander Lerchner.
+\newblock Scan: learning abstract hierarchical compositional visual concepts.
+\newblock In \emph{ICLR}, 2018.
+
+\bibitem[Hu et~al.(2018)Hu, Andreas, Darrell, and Saenko]{Hu2018Explainable}
+Ronghang Hu, Jacob Andreas, Trevor Darrell, and Kate Saenko.
+\newblock Explainable neural computation via stack neural module networks.
+\newblock In \emph{ECCV}, 2018.
+
+\bibitem[Hudson \& Manning(2018)Hudson and Manning]{Hudson2018Compositional}
+Drew~A Hudson and Christopher~D Manning.
+\newblock Compositional attention networks for machine reasoning.
+\newblock In \emph{ICLR}, 2018.
+
+\bibitem[Jabri et~al.(2016)Jabri, Joulin, and van~der
+  Maaten]{Jabri2016Revisiting}
+Allan Jabri, Armand Joulin, and Laurens van~der Maaten.
+\newblock Revisiting visual question answering baselines.
+\newblock In \emph{ECCV}, 2016.
+
+\bibitem[Johnson et~al.(2015)Johnson, Krishna, Stark, Li, Shamma, Bernstein,
+  and Fei-Fei]{Johnson2015Image}
+Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David Shamma, Michael
+  Bernstein, and Li~Fei-Fei.
+\newblock Image retrieval using scene graphs.
+\newblock In \emph{CVPR}, 2015.
+
+\bibitem[Johnson et~al.(2016)Johnson, Karpathy, and Fei-Fei]{densecap}
+Justin Johnson, Andrej Karpathy, and Li~Fei-Fei.
+\newblock {DenseCap}: Fully convolutional localization networks for dense
+  captioning.
+\newblock In \emph{CVPR}, 2016.
+
+\bibitem[Johnson et~al.(2017{\natexlab{a}})Johnson, Hariharan, van~der Maaten,
+  Fei-Fei, Zitnick, and Girshick]{Johnson2017CLEVR}
+Justin Johnson, Bharath Hariharan, Laurens van~der Maaten, Li~Fei-Fei,
+  C~Lawrence Zitnick, and Ross Girshick.
+\newblock {CLEVR}: A diagnostic dataset for compositional language and
+  elementary visual reasoning.
+\newblock In \emph{CVPR}, 2017{\natexlab{a}}.
+
+\bibitem[Johnson et~al.(2017{\natexlab{b}})Johnson, Hariharan, van~der Maaten,
+  Hoffman, Fei-Fei, Zitnick, and Girshick]{Johnson2017Inferring}
+Justin Johnson, Bharath Hariharan, Laurens van~der Maaten, Judy Hoffman,
+  Li~Fei-Fei, C~Lawrence Zitnick, and Ross Girshick.
+\newblock Inferring and executing programs for visual reasoning.
+\newblock In \emph{ICCV}, 2017{\natexlab{b}}.
+
+\bibitem[Kiros et~al.(2014)Kiros, Salakhutdinov, and Zemel]{kiros2014unifying}
+Ryan Kiros, Ruslan Salakhutdinov, and Richard~S Zemel.
+\newblock Unifying visual-semantic embeddings with multimodal neural language
+  models.
+\newblock \emph{arXiv:1411.2539}, 2014.
+
+\bibitem[Konidaris et~al.(2018)Konidaris, Kaelbling, and
+  Lozano-Perez]{Konidaris2018Skills}
+George Konidaris, Leslie~Pack Kaelbling, and Tomas Lozano-Perez.
+\newblock From skills to symbols: Learning symbolic representations for
+  abstract high-level planning.
+\newblock \emph{JAIR}, 2018.
+
+\bibitem[Kulkarni et~al.(2015)Kulkarni, Whitney, Kohli, and
+  Tenenbaum]{kulkarni2015deep}
+Tejas~D Kulkarni, William~F Whitney, Pushmeet Kohli, and Josh Tenenbaum.
+\newblock Deep convolutional inverse graphics network.
+\newblock In \emph{NeurIPS}, 2015.
+
+\bibitem[Levin(1993)]{Levin1993English}
+Beth Levin.
+\newblock \emph{English verb classes and alternations}, volume~1.
+\newblock University of Chicago Press, 1993.
+
+\bibitem[Lin et~al.(2014)Lin, Maire, Belongie, Hays, Perona, Ramanan,
+  Doll{\'a}r, and Zitnick]{lin2014microsoft}
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva
+  Ramanan, Piotr Doll{\'a}r, and C~Lawrence Zitnick.
+\newblock Microsoft coco: Common objects in context.
+\newblock In \emph{ECCV}, 2014.
+
+\bibitem[Malinowski \& Fritz(2014)Malinowski and Fritz]{malinowski2014multi}
+M~Malinowski and M~Fritz.
+\newblock A multi-world approach to question answering about real-world scenes
+  based on uncertain input.
+\newblock In \emph{NeurIPS}, 2014.
+
+\bibitem[Mao et~al.(2016)Mao, Xu, Jing, and Yuille]{mao2016training}
+Junhua Mao, Jiajing Xu, Kevin Jing, and Alan~L Yuille.
+\newblock Training and evaluating multimodal word embeddings with large-scale
+  web annotated images.
+\newblock In \emph{NeurIPS}, 2016.
+
+\bibitem[Mascharka et~al.(2018)Mascharka, Tran, Soklaski, and
+  Majumdar]{Mascharka2018Transparency}
+David Mascharka, Philip Tran, Ryan Soklaski, and Arjun Majumdar.
+\newblock Transparency by design: Closing the gap between performance and
+  interpretability in visual reasoning.
+\newblock In \emph{CVPR}, 2018.
+
+\bibitem[Oh et~al.(2017)Oh, Singh, Lee, and Kohli]{Oh2017Zero}
+Junhyuk Oh, Satinder Singh, Honglak Lee, and Pushmeet Kohli.
+\newblock Zero-shot task generalization with multi-task deep reinforcement
+  learning.
+\newblock In \emph{ICML}, 2017.
+
+\bibitem[Pennington et~al.(2014)Pennington, Socher, and
+  Manning]{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher Manning.
+\newblock Glove: Global vectors for word representation.
+\newblock In \emph{EMNLP}, 2014.
+
+\bibitem[Perez et~al.(2018)Perez, Strub, De~Vries, Dumoulin, and
+  Courville]{Perez2017Film}
+Ethan Perez, Florian Strub, Harm De~Vries, Vincent Dumoulin, and Aaron
+  Courville.
+\newblock Film: Visual reasoning with a general conditioning layer.
+\newblock In \emph{AAAI}, 2018.
+
+\bibitem[Santoro et~al.(2017)Santoro, Raposo, Barrett, Malinowski, Pascanu,
+  Battaglia, and Lillicrap]{Santoro2017simple}
+Adam Santoro, David Raposo, David~GT Barrett, Mateusz Malinowski, Razvan
+  Pascanu, Peter Battaglia, and Timothy Lillicrap.
+\newblock A simple neural network module for relational reasoning.
+\newblock In \emph{NeurIPS}, 2017.
+
+\bibitem[Schuster et~al.(2015)Schuster, Krishna, Chang, Fei-Fei, and
+  Manning]{Schuster2015Generating}
+Sebastian Schuster, Ranjay Krishna, Angel Chang, Li~Fei-Fei, and Christopher~D
+  Manning.
+\newblock Generating semantically precise scene graphs from textual
+  descriptions for improved image retrieval.
+\newblock In \emph{EMNLP Workshop}, 2015.
+
+\bibitem[Shi et~al.(2018)Shi, Mao, Xiao, Jiang, and Sun]{shi2018learning}
+Haoyue Shi, Jiayuan Mao, Tete Xiao, Yuning Jiang, and Jian Sun.
+\newblock Learning visually-grounded semantics from contrastive adversarial
+  samples.
+\newblock In \emph{COLING}, 2018.
+
+\bibitem[Siddharth et~al.(2017)Siddharth, Paige, Meent, Desmaison, Goodman,
+  Kohli, Wood, and Torr]{Siddharth2017Learning}
+N~Siddharth, T.~B. Paige, J.W. Meent, A.~Desmaison, N.~Goodman, P.~Kohli,
+  F.~Wood, and P.~Torr.
+\newblock Learning disentangled representations with semi-supervised deep
+  generative models.
+\newblock In \emph{NeurIPS}, 2017.
+
+\bibitem[Suarez et~al.(2018)Suarez, Johnson, and Li]{Suarez2018DDRprog}
+Joseph Suarez, Justin Johnson, and Fei-Fei Li.
+\newblock {DDRprog}: A clevr differentiable dynamic reasoning programmer.
+\newblock \emph{arXiv:1803.11361}, 2018.
+
+\bibitem[Sutton et~al.(2000)Sutton, McAllester, Singh, and
+  Mansour]{Sutton2000Policy}
+Richard~S Sutton, David~A McAllester, Satinder~P Singh, and Yishay Mansour.
+\newblock Policy gradient methods for reinforcement learning with function
+  approximation.
+\newblock In \emph{NeurIPS}, 2000.
+
+\bibitem[Vendrov et~al.(2016)Vendrov, Kiros, Fidler, and
+  Urtasun]{vendrov2015order}
+Ivan Vendrov, Ryan Kiros, Sanja Fidler, and Raquel Urtasun.
+\newblock Order-embeddings of images and language.
+\newblock In \emph{ICLR}, 2016.
+
+\bibitem[Williams(1992)]{Williams1992Simple}
+Ronald~J Williams.
+\newblock Simple statistical gradient-following algorithms for connectionist
+  reinforcement learning.
+\newblock \emph{MLJ}, 8\penalty0 (3-4):\penalty0 229--256, 1992.
+
+\bibitem[Wu et~al.(2017)Wu, Tenenbaum, and Kohli]{Wu2017Neural}
+Jiajun Wu, Joshua~B Tenenbaum, and Pushmeet Kohli.
+\newblock Neural scene de-rendering.
+\newblock In \emph{CVPR}, 2017.
+
+\bibitem[Xu \& Saenko(2016)Xu and Saenko]{xu2016ask}
+Huijuan Xu and Kate Saenko.
+\newblock Ask, attend and answer: Exploring question-guided spatial attention
+  for visual question answering.
+\newblock In \emph{ECCV}, 2016.
+
+\bibitem[Yang et~al.(2015)Yang, Reed, Yang, and Lee]{Yang2015Weakly}
+Jimei Yang, Scott~E Reed, Ming-Hsuan Yang, and Honglak Lee.
+\newblock Weakly-supervised disentangling with recurrent transformations for 3d
+  view synthesis.
+\newblock In \emph{NeurIPS}, 2015.
+
+\bibitem[Yang et~al.(2016)Yang, He, Gao, Deng, and Smola]{Yang2016Stacked}
+Zichao Yang, Xiaodong He, Jianfeng Gao, Li~Deng, and Alex Smola.
+\newblock Stacked attention networks for image question answering.
+\newblock In \emph{CVPR}, 2016.
+
+\bibitem[Yi et~al.(2018)Yi, Wu, Gan, Torralba, Kohli, and Tenenbaum]{kexin}
+Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, and Joshua~B
+  Tenenbaum.
+\newblock Neural-{S}ymbolic {VQA}: Disentangling reasoning from vision and
+  language understanding.
+\newblock In \emph{NeurIPS}, 2018.
+
+\bibitem[Zhu et~al.(2015)Zhu, Kiros, Zemel, Salakhutdinov, Urtasun, Torralba,
+  and Fidler]{zhu2015aligning}
+Yukun Zhu, Ryan Kiros, Rich Zemel, Ruslan Salakhutdinov, Raquel Urtasun,
+  Antonio Torralba, and Sanja Fidler.
+\newblock Aligning books and movies: Towards story-like visual explanations by
+  watching movies and reading books.
+\newblock In \emph{CVPR}, 2015.
+
+\end{thebibliography}

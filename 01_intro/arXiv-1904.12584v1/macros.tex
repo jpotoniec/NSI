@@ -1,0 +1,70 @@
+% require xspace, array
+
+%% layout
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\newcommand{\xpar}[1]{\noindent\textbf{#1}\ \ }
+\newcommand{\vpar}[1]{\vspace{3mm}\noindent\textbf{#1}\ \ }
+
+%% notations
+\newcommand{\sect}[1]{Section~\ref{#1}}
+\newcommand{\sects}[1]{Sections~\ref{#1}}
+\newcommand{\eqn}[1]{Equation~\ref{#1}}
+\newcommand{\eqns}[1]{Equations~\ref{#1}}
+\newcommand{\fig}[1]{Figure~\ref{#1}}
+\newcommand{\figs}[1]{Figures~\ref{#1}}
+\newcommand{\tbl}[1]{Table~\ref{#1}}
+\newcommand{\tbls}[1]{Tables~\ref{#1}}
+
+%\newcommand{\degree}{\ensuremath{^\circ}\xspace}
+\newcommand{\ignorethis}[1]{}
+\newcommand{\norm}[1]{\lVert#1\rVert}
+\newcommand{\fcseven}{$\mbox{fc}_7$}
+
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+
+\def\naive{na\"{\i}ve\xspace}
+\def\Naive{Na\"{\i}ve\xspace}
+
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}
+
+\makeatletter
+\DeclareRobustCommand\onedot{\futurelet\@let@token\@onedot}
+\def\@onedot{\ifx\@let@token.\else.\null\fi\xspace}
+
+\def\iid{\emph{i.i.d}\onedot}
+\def\eg{e.g\onedot} \def\Eg{E.g\onedot}
+\def\ie{i.e\onedot} \def\Ie{I.e\onedot}
+\def\cf{\emph{c.f}\onedot} \def\Cf{\emph{C.f}\onedot}
+\def\etc{etc\onedot} \def\vs{\emph{vs}\onedot}
+\def\wrt{w.r.t\onedot} \def\dof{d.o.f\onedot}
+\def\etal{et al\onedot}
+\makeatother
+
+%% comments
+\definecolor{MyDarkBlue}{rgb}{0,0.08,1}
+\definecolor{MyDarkGreen}{rgb}{0.02,0.6,0.02}
+\definecolor{MyDarkRed}{rgb}{0.8,0.02,0.02}
+\definecolor{MyDarkOrange}{rgb}{0.40,0.2,0.02}
+\definecolor{MyPurple}{RGB}{111,0,255}
+\definecolor{MyRed}{rgb}{1.0,0.0,0.0}
+\definecolor{MyGold}{rgb}{0.75,0.6,0.12}
+\definecolor{MyDarkgray}{rgb}{0.66, 0.66, 0.66}
+
+\newcommand{\jw}[1]{\textcolor{MyDarkGreen}{[Jiajun: #1]}}
+\newcommand{\jiayuan}[1]{\textcolor{MyDarkBlue}{[Jiayuan: #1]}}
+\newcommand{\gc}[1]{\textcolor{MyDarkRed}{[Chuang: #1]}}
+\newcommand{\kyi}[1]{\textcolor{MyDarkOrange}{[Kexin: #1]}}
+
+\newcommand{\modelfull}{neuro-symbolic concept learner\xspace}
+\newcommand{\model}{NS-CL\xspace}
+\newcommand{\myparagraph}[1]{\vspace{-3pt}\paragraph{#1}}
+
+\newcommand{\revisioncolor}{}
+
+%\titlespacing\section{0pt}{1pt plus 0pt minus 4pt}{0pt plus 0pt minus 4pt}
+%\titlespacing\subsection{0pt}{0pt plus 0pt minus 5pt}{0pt plus 0pt minus 6pt}
+
